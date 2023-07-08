@@ -1,0 +1,6 @@
+// new
+syntax = "proto3";
+
+package ppm_example.new.v1;
+
+// Don't need anything here
